@@ -1,0 +1,15 @@
+#div1
+{
+	background: red;
+	width:100vmin;
+	border:2px;
+	height: 80vmin;
+}
+
+#div2
+{
+	background: green;
+	width:30vmin;
+	border:2px;
+	height: 30vmin;
+}
